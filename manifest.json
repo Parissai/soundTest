@@ -1,0 +1,26 @@
+{
+  "name": "Parissa's F&C Application",
+  "short_name": "f&cApp",
+  "start_url": "https://github.com/Parissai/Parissai.github.io/blob/master/manifest.json",
+  "description": "One-page website using GitHub Pages as Founders & Coders prerequisites",
+  "version": "1.0.0",
+  "main": "script.js",
+  "author": "Parissa Jamali <parissa.jamali@gmail.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dir": "ltr",
+  "lang": "en",
+  "bugs": {
+    "url": "https://github.com/Parissai/soundTest/issues",
+    "email": "parissa.jamali@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parissai/soundTest.git"
+  },
+  "homepage": "https://parissai.github.io/soundTest/.",
+  "theme_color": "#2C688C",
+  "background_color": "#2C688C"
+}
